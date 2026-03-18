@@ -1,0 +1,593 @@
+Mono path[0] = 'D:/RustServer/Server/RustDedicated_Data/Managed'
+Mono config path = 'D:/RustServer/Server/MonoBleedingEdge/etc'
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Initialize engine version: 2022.3.41x1 (d8afa327e7e0)
+[Subsystems] Discovering subsystems at path D:/RustServer/Server/RustDedicated_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.151 seconds
+- Finished resetting the current domain, in  0.001 seconds
+ERROR: Shader Hidden/PostProcessing/Copy shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/CopyStd shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/ViewModel shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/DLSSUtils shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader MeshPaintable3D/UVRender shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Legacy Shaders/Diffuse shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Custom/RaycastDepthShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Custom/RaycastDepthShader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/RaycastDepthShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/PostProcessing/NightLightShader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/RadialBlur shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/RustTemporalAntialiasing shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/DeferredIndirectLighting shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Shader 'Soft Mask/TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+WARNING: Shader Unsupported: 'Soft Mask/TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Soft Mask/TextMeshPro/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Soft Mask/TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Rust/Mesh Guide Render shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Rust/Mesh Guide Stencil Normals shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+Profiler Disabled!
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Texture 'materialdesignicons-webfont SDF Atlas' with size 8192x4096 was too large for graphics device maximum supported texture size (4096x4096). Falling back to a dummy texture. Generate mip maps to provide lower size fallback.
+ERROR: Shader UI/Background Blur shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader TextMeshPro/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 2.856500 ms
+Fallback handler could not load library D:/RustServer/Server/RustDedicated_Data/MonoBleedingEdge/data-0000019472452040.dll
+Set managed directory to 'D:\RustServer\Server\RustDedicated_Data\Managed'
+Set harmony directory to 'D:/RustServer/Server/RustDedicated_Data\..\HarmonyMods'
+[HarmonyLoader] Couldn't unload mod 'NoSteam': not loaded
+[HarmonyLoader com.facepunch.rust_dedicated.NoSteam] Loading from D:/RustServer/Server/RustDedicated_Data\..\HarmonyMods\NoSteam.dll
+Fallback handler could not load library D:/RustServer/Server/RustDedicated_Data/MonoBleedingEdge/data-0000019472A99010.dll
+Fallback handler could not load library D:/RustServer/Server/RustDedicated_Data/MonoBleedingEdge/data-0000019472A75A20.dll
+Fallback handler could not load library D:/RustServer/Server/RustDedicated_Data/MonoBleedingEdge/data-0000019472D94210.dll
+C:\build\output\Unity-Technologies\mono\mono\eglib\gpath.c:115: assertion 'filename != NULL' failed
+
+[HarmonyLoader com.facepunch.rust_dedicated.NoSteam] Loaded harmony mod 'com.facepunch.rust_dedicated.NoSteam'
+ERROR: Shader UI/TrueShadow-Normal shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+3D Noise requires higher shader capabilities (Shader Model 3.5 / OpenGL ES 3.0), which are not available on the current platform: graphicsShaderLevel (current/required) = 30 / 35
+Bootstrap Startup
+Loading maps/maps.bundle
+Loading shared/assetscenes.bundle
+Loading shared/content.bundle
+Loading shared/content.private.bundle
+Loading shared/items.preload.bundle
+Loading shared/monuments.bundle
+Loading shared/skinnables.preload.bundle
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+System
+	Name: DESKTOP-AVMUDQS
+	OS:   Windows 11  (10.0.26200) 64bit
+
+CPU
+	Model:  12th Gen Intel(R) Core(TM) i5-12400F
+	Cores:  12
+	Memory: 32625 MB
+
+GPU
+	Model:  Null Device
+	API:    NULL 1.0 [1.0]
+	Memory: 128 MB
+	SM:     30
+
+Process
+	Memory:   997 MB
+
+Mono
+	Collects: 68
+	Memory:   80 MB
+
+
+Manifest Metadata Loaded
+	38294 pooled strings
+	15864 prefab properties
+	423 effect categories
+	2181 entity names
+[NoSteam] Check update NoSteam. Remote version is 2.5.2
+...
+[NoSteam] Try to load steamworks: D:/RustServer/Server/RustDedicated_Data\Managed\Facepunch.Steamworks.Win64.dll
+Command Line: "RustDedicated.exe" "-batchmode" "-nographics" "+server.ip" "0.0.0.0" "+server.port" "28015" "+server.hostname" "Р’Р°С€ СЃРµСЂРІРµСЂ Rust" "+server.description" "Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РЅР° РЅР°С€ СЃРµСЂРІРµСЂ!" "+server.url" "+server.headerimage" "+server.logoimage" "+server.identity" "server_name" "+server.seed" "2074876857" "+server.worldsize" "3000" "+server.maxplayers" "69" "+server.level" "Procedural Map" "+server.tickrate" "30" "+server.saveinterval" "300" "+server.secure" "true" "+server.encryption" "1" "+server.pve" "false" "+server.globalchat" "true" "+server.maxcorpses" "10" "+server.decay.scale" "1" "+rcon.port" "28016" "+rcon.web" "true" "+rcon.password" "******" "-logfile" "..\output.log" 
+Setup unity update hooks
+Command 'batchmode' not found
+Command 'nographics' not found
+server.ip: "0.0.0.0"
+server.port: "28015"
+server.hostname: "Р’Р°С€ СЃРµСЂРІРµСЂ Rust"
+server.description: "Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РЅР° РЅР°С€ СЃРµСЂРІРµСЂ!"
+server.url: "1"
+server.headerimage: "1"
+server.logoimage: "1"
+server.identity: "server_name"
+server.seed: "2074876857"
+server.worldsize: "3000"
+server.maxplayers: "69"
+server.level: "Procedural Map"
+server.tickrate: "30"
+server.saveinterval: "300"
+Command 'server.secure' not found
+server.encryption: "1"
+server.pve: "False"
+Command 'server.globalchat' not found
+Command 'server.maxcorpses' not found
+Command 'server.decay.scale' not found
+rcon.port: "28016"
+rcon.web: "True"
+Command 'rcon.password' not found
+Command 'logfile' not found
+Command 'batchmode' not found
+Command 'nographics' not found
+server.ip: "0.0.0.0"
+server.port: "28015"
+server.hostname: "Р’Р°С€ СЃРµСЂРІРµСЂ Rust"
+server.description: "Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РЅР° РЅР°С€ СЃРµСЂРІРµСЂ!"
+server.url: "1"
+server.headerimage: "1"
+server.logoimage: "1"
+server.identity: "server_name"
+server.seed: "2074876857"
+server.worldsize: "3000"
+server.maxplayers: "69"
+server.level: "Procedural Map"
+server.tickrate: "30"
+server.saveinterval: "300"
+Command 'server.secure' not found
+server.encryption: "1"
+server.pve: "False"
+Command 'server.globalchat' not found
+Command 'server.maxcorpses' not found
+Command 'server.decay.scale' not found
+rcon.port: "28016"
+rcon.web: "True"
+Command 'rcon.password' not found
+Command 'logfile' not found
+Server Config Loaded
+Running server/server_name/cfg/users.cfg
+Command 'batchmode' not found
+Command 'nographics' not found
+server.ip: "0.0.0.0"
+server.port: "28015"
+server.hostname: "Р’Р°С€ СЃРµСЂРІРµСЂ Rust"
+server.description: "Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РЅР° РЅР°С€ СЃРµСЂРІРµСЂ!"
+server.url: "1"
+server.headerimage: "1"
+server.logoimage: "1"
+server.identity: "server_name"
+server.seed: "2074876857"
+server.worldsize: "3000"
+server.maxplayers: "69"
+server.level: "Procedural Map"
+server.tickrate: "30"
+server.saveinterval: "300"
+Command 'server.secure' not found
+server.encryption: "1"
+server.pve: "False"
+Command 'server.globalchat' not found
+Command 'server.maxcorpses' not found
+Command 'server.decay.scale' not found
+rcon.port: "28016"
+rcon.web: "True"
+Command 'rcon.password' not found
+Command 'logfile' not found
+Skinnable Warmup
+Manifest Assets Loaded
+	147 skinnable objects
+Initializing Nexus
+Nexus endpoint and/or secret key is not set, not starting nexus connection
+Loading Scene
+HDR Render Texture not supported, disabling HDR on reflection probe.
+Missing shader in Main Camera (TOD_Scattering)
+Missing shader in Main Camera (TOD_Scattering)
+Missing shader in Main Camera (TOD_Scattering)
+Asset Warmup (1/8179)
+Asset Warmup (8179/8179)
+[0.6s] asset_warmup
+WebSocket RCON Started on :28016
+Generating procedural map of size 3000 with seed 2074876857
+ERROR: Shader Hidden/OcclusionCulling/BlitCopy shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Water/CombineInteractions shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/CompassStrip shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/VolumetricLightBeam1Pass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/VolumetricLightBeam2Pass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/Particles/Alpha Blended shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/CoverageQueries/Coverage shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/OcclusionCulling/Culling shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/PhotoFilter shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/BlurOptimized shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/Wiggle shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/ScreenOverlay shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/FlashbangEffect shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/DepthOfFieldEffect shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/DoubleVision shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/GodRays shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/UnderWaterEffect shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/SkyMask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/GreyScale shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/LensDirtiness shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/SharpenAndVignette shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/Frost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessing/ScreenClear shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/OcclusionCulling/DebugMip shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/OcclusionCulling/DepthCopy shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/OcclusionCulling/DepthDownscale shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'EasyRoads3D/Unity 2018+ Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader EasyRoads3D/Unity 2018+ Standard shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'EasyRoads3D/Unity 2018+ Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'EasyRoads3D/edit-mode-surfaces' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader EasyRoads3D/edit-mode-surfaces shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'EasyRoads3D/edit-mode-surfaces' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ERROR: Shader UI/IconOutline shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Water/Interaction shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Amplify Occlusion/Occlusion shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Water/Ocean Underwater Fill shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/PostProcessSubsurface shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Kino/Motion/Prefilter shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Kino/Motion/Reconstruction shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/SEScreenSpaceShadowsFallback shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/SEScreenSpaceShadows' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/SEScreenSpaceShadows shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/SEScreenSpaceShadows' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Soft Mask/TextMeshPro/Sprite shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TrueShadow/ImprintPostProcess shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TrueShadow/Cutout shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TrueShadow/PostProcess shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Shader 'TextMeshPro/Distance Field - Depth Offset': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field - Depth Offset' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader TextMeshPro/Distance Field - Depth Offset shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field - Depth Offset' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'TextMeshPro/Distance Field NoZTest': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field NoZTest' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader TextMeshPro/Distance Field NoZTest shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field NoZTest' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field Overlay' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader TextMeshPro/Distance Field Overlay shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field Overlay' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader TextMeshPro/Distance Field (Surface) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader TextMeshPro/Sprite shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/TrueShadow-Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/TrueShadow-Multiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/TrueShadow-Screen shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/UI Default (Soft Masked) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/UI Default ETC1 (Soft Masked) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/UI Default ETC1 with Premultiplied Alpha (Soft Masked) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/UI Default with Premultiplied Alpha (Soft Masked) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/CoreTexelDensity shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TonemappingColorGrading shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Multiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'UI/Default Font' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'UI/Default Font' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader UI/Edge Fade shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/Unlit/Transparent-Scroll shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/Unlit/Transparent-TimeScaled shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/UI/Default (UIDissolve) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/UI/Default (UIEffect) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/UI/Default (UIHsvModifier) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/UI/Default (UIShiny) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/UI/Default (UITransition) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[2.0s] Loading Monument Prefabs
+[0.4s] Height Map
+[19.9s] Terrain Erosion
+[1.1s] River Layout
+[0.3s] River Terrain
+[1.4s] Harbors
+[0.8s] Fishing Villages
+[6.4s] Main Monuments
+[2.4s] Tunnel Entrances
+[1.2s] Tunnels
+[0.3s] Rail Layout
+[0.4s] Rail Branching
+[0.3s] Rail Siding
+[1.1s] Tiny Monuments
+[0.4s] Jungle Ruins
+[0.7s] Swamps
+[1.3s] Ice Lakes
+[0.6s] Road Layout
+[0.8s] Trail Layout
+[2.1s] Road Monuments
+[0.7s] Road Terrain
+[2.1s] Power Line Layout
+[3.1s] Caves
+[6.5s] Underwater Labs
+[0.5s] Cliff Topology
+[20.9s] Coastal Cliffs
+[17.4s] Coastal Cliffs Small
+[17.9s] Cliffs Hills
+[24.3s] Cliffs Hills Small
+[11.2s] Coastal Rocks
+[0.6s] Terrain Erosion splatting
+[0.5s] Procedural Objects
+[0.5s] Cliff Topology
+[0.8s] Train Track Collation
+[154.1s] Processing World
+[0.3s] Saving World
+Generated ocean patrol path with node count: 310
+[5.5s] Ocean Patrol Paths
+[0.5s] Finalizing World
+Unloading 5 Unused Serialized files (Serialized files now loaded: 119)
+Unloading 209860 unused Assets to reduce memory usage. Loaded Objects now: 1163288.
+Total: 236.445600 ms (FindLiveObjects: 68.284400 ms CreateObjectMapping: 18.309600 ms MarkObjects: 93.522600 ms  DeleteObjects: 56.328500 ms)
+
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 1.65 seconds
+Starting Navmesh Build with 59611 sources
+99%
+Navmesh Build took 12.75 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 266 sources
+79%
+Monument Navmesh Build took 0.64 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 1737 sources
+1%
+83%
+Monument Navmesh Build took 0.52 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.07 seconds
+Starting Monument Navmesh Build with 1530 sources
+74%
+Monument Navmesh Build took 0.63 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.07 seconds
+Starting Monument Navmesh Build with 2104 sources
+90%
+Monument Navmesh Build took 0.91 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 2280 sources
+87%
+Monument Navmesh Build took 0.96 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.07 seconds
+Starting Monument Navmesh Build with 2256 sources
+87%
+Monument Navmesh Build took 0.54 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.02 seconds
+Starting Monument Navmesh Build with 886 sources
+Monument Navmesh Build took 0.25 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.02 seconds
+Starting Monument Navmesh Build with 1852 sources
+96%
+Monument Navmesh Build took 0.51 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.01 seconds
+Starting Dungeon Navmesh Build with 16616 sources
+26%
+Monument Navmesh Build took 1.12 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Dungeon Navmesh Build with 1025 sources
+14%
+Monument Navmesh Build took 0.26 seconds
+Couldn't load server/server_name/proceduralmap.3000.2074876857.281.sav - file doesn't exist
+Spawning 2507 entities from map
+	done.
+Postprocessing 2507 entities from map
+	done.
+Missing EnvSync - creating
+Missing CommunityEntity - creating
+Missing ResourceDepositManager - creating
+Missing RelationshipManager - creating
+Missing TreeManager - creating
+Missing GlobalNetworkHandler - creating
+Starting to load entities into GlobalNetworkHandler...
+Took 3ms to load entities into GlobalNetworkHandler
+Missing CopyPasteEntity - creating
+Missing BuriedItems - creating
+Missing DeepSeaManager - creating
+Initializing 41073 entity links
+	done.
+Initializing 545 stability supports
+	done.
+Initializing 30432 entity save caches
+	done.
+Gamemode Convar :
+No Gamemode.
+Preparing Occlusion Grid (1500, 100, 1500)
+Processing 3 batches(78366 broadphase cells total)...
+Initialized 225000000 occlusion sub-chunks - took 14.3185978s
+[Rust.MapCache] Map uploaded to backend: https://files.facepunch.com/rust/maps/491cd7d3fdefa430a636e84a6edd0e317c9ec2b226251e3eec01f559647a8da1/proceduralmap.3000.2074876857.281_491cd7d3fdefa430a636e84a6edd0e31.map
+A server requires a minimum 'encryption' value of 2 to be secure and visible in the server browser. To remain secure, increase your 'encryption' convar to 2 and restart your server.
+SteamServer Initialized
+Server startup complete
+[Rust.MapCache-Images] Image uploaded to backend: https://files.facepunch.com/rust/map-images/327d727cbd90060a038c8e082529e84f58a0dc7dca3c23a90eed479b3bd3eac4/proceduralmap.3000.2074876857.281_327d727cbd90060a038c8e082529e84f.jpg
+SteamServer Connected
+Checking for new Steam Item Definitions..
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 615 sources
+95%
+Monument Navmesh Build took 1.40 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 367 sources
+94%
+Monument Navmesh Build took 1.00 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 335 sources
+Monument Navmesh Build took 0.22 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 180 sources
+94%
+Monument Navmesh Build took 0.89 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 326 sources
+Monument Navmesh Build took 0.27 seconds
+Starting Navmesh Source Collecting
+Navmesh Source Collecting took 0.00 seconds
+Starting Monument Navmesh Build with 110 sources
+95%
+Monument Navmesh Build took 0.90 seconds
+Saved 32,449 ents, cache(0.04), write(0.01), disk(0.01).
+Saving complete
+Invalid Position: chicken.corpse[65048] (854.16, -500.96, -769.92) (destroying)
+Rust+ companion server connectivity test failed! Disabling Rust+ features.
+
+Could not establish a TCP connection to 5.16.136.53:28083
+Saved 32,497 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Saved 32,590 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+[NoSteam] 'Net.sv.secure' should was been '1'
+[NoSteam] Steam player[76561198126247449] connecting
+Invalid Position: chicken.corpse[65428] (249.35, -501.57, 286.78) (destroying)
+spv220277 with steamid 76561198126247449 joined from ip 26.246.129.56:56530
+	NetworkId 76561198126247449 is 65498 (spv220277)
+PlayerState was from old protocol or different seed, or not from a loaded save. Clearing player state
+spv220277[76561198126247449] has spawned
+Saved 32,624 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+spv220277[76561198126247449] was killed by bear (Bear) at (816.92, -0.46, -646.80)
+spv220277[76561198126247449] has spawned
+[NoSteam] 'Net.sv.secure' should was been '1'
+[NoSteam] Steam player[76561198126247449] connecting
+Saved 32,669 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+26.246.129.56:63856/76561198126247449/spv220277 joined [windows/0]
+spv220277[76561198126247449] has spawned
+spv220277[76561198126247449] was killed by fall at (-398.23, 15.93, -938.09)
+spv220277[76561198126247449] has spawned
+spv220277[76561198126247449] was killed by Scientist[384] at (-594.11, 11.18, -820.98)
+spv220277[76561198126247449] has spawned
+Saved 32,677 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+HTTP Error when uploading analytics: 500 (Internal Server Error)
+Saved 32,315 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Saved 32,713 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Saved 32,715 ents, cache(0.00), write(0.00), disk(0.00).
+Saving complete
+Saved 32,716 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+SteamServer Disconnected (NoConnection)
+SteamServer Connected
+26.246.129.56:63856/76561198126247449/spv220277 disconnecting: closing
+Saved 32,730 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Saved 32,724 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+[event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Checking for new Steam Item Definitions..
+Saved 32,637 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Invalid Position: chicken.corpse[92558] (-114.73, -500.65, -80.31) (destroying)
+Invalid Position: chicken.corpse[92563] (-114.87, -500.43, -80.78) (destroying)
+Saved 32,682 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+SteamServer Disconnected (ServiceUnavailable)
+SteamServer Connection Failure (ServiceUnavailable)
+SteamServer Connected
+Saved 32,735 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+SteamServer Disconnected (ServiceUnavailable)
+SteamServer Connection Failure (NoConnection)
+SteamServer Connection Failure (NoConnection)
+SteamServer Connection Failure (NoConnection)
+SteamServer Connected
+Saved 32,755 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Saved 32,774 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+HTTP Error when uploading analytics: 500 (Internal Server Error)
+Saved 32,775 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+Saved 32,767 ents, cache(0.01), write(0.01), disk(0.00).
+Saving complete
+HTTP Error when uploading analytics: 500 (Internal Server Error)
+Invalidate Network Cache took 0.00 seconds
+Saved 32,763 ents, cache(0.12), write(0.00), disk(0.00).
+Saving complete
